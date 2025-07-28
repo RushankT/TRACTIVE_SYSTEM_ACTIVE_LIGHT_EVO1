@@ -1,0 +1,36 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C5",2,100nF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"C2,C6",2,1uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"C3,C7,C9",3,10nF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"C4,C8",2,47uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"C10,C11,C12",3,22uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+D1,1,YELLOW LED,,,,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+"H1,H2,H3,H4",4,MountingHole_Pad,,Excluded from BOM,,MountingHole:MountingHole_4.3mm_M4_ISO7380_Pad_TopBottom,~
+"IC1,IC2",2,SN74HC08NSR,,,,,http://www.ti.com/lit/gpn/sn74hc08
+J1,1,Conn_01x10_Socket,,,,Connector_JST:JST_VH_B10P-VH-B_1x10_P3.96mm_Vertical,~
+J2,1,Conn_01x04_Socket,,,,Connector_JST:JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical,~
+J3,1,AUX,,,,Connector_JST:JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical,~
+J4,1,MAIN,,,,Connector_JST:JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical,~
+J5,1,AIR+ve,,,,Connector_JST:JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical,~
+J6,1,PRECHARGERELAY,,,,Connector_JST:JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical,~
+J7,1,AIR-ve,,,,Connector_JST:JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical,~
+J8,1,GREEN_LED_CONNECTOR_MAIN,,,,Connector_JST:JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical,~
+J9,1,GREEN_LED_CONNECTOR_AUX,,,,Connector_JST:JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical,~
+PS1,1,TMV_1212S,,,,TMV_1212S:CONV_TMV_1212S,
+"Q4,Q5,Q6",3,BSC160N10NS3G,,,,Package_TO_SOT_SMD:TDSON-8-1,http://www.infineon.com/dgdl/Infineon-BSC160N10NS3-DS-v02_04-en.pdf?fileId=db3a30432239cccd01226040189a7f47
+R1,1,47k Ohms,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+R2,1,5.1k Ohms,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+R3,1,240k ohms,,,,Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,~
+"R4,R6",2,10k ohm,,,,Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,~
+R5,1,220k ohms,,,,Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,~
+"R7,R8,R9,R10,R11,R12,R15,R16,R17,R19,R25,R27,R29,R30",14,10k,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+"R13,R14,R20",3,2k,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+R18,1,330,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+"R21,R22,R23",3,1,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+"R24,R26,R28",3,5.1k,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+"U1,U2",2,PC817,,,,Package_DIP:DIP-4_W7.62mm,http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
+U3,1,LM393,,,,LM393 (1):SO08,http://www.ti.com/lit/ds/symlink/lm393.pdf
+U5,1,NE555P,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/ne555.pdf
+U7,1,L78M05CDT,,,,L78M05CDT:VREG_L78M05CDT,
+"VR1,VR3",2,3296W-1-103LF,,,,3296W-1-103LF:TRIM_3296W-1-103LF,
+VR2,1,3296W-1-203,,,,3296W-1-203:TRIM_3296W-1-203,
